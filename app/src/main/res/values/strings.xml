@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetPackFirstProject</string>
+    <string name="picture_at_random">Picture at random</string>
+    <string name="get_new_picture">Get new Picture</string>
 </resources>
